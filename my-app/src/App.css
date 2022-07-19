@@ -1,0 +1,25 @@
+.btn-company {
+  width: 150px;
+  height: 40px;
+  background-color: blueviolet;
+  border-style: none;
+  color: white;
+}
+
+.search-bar {
+  width: 650px;
+  border-style: none;
+}
+
+.page-count {
+  width: 60px;
+  height: 40px;
+  background-color: rgb(74, 59, 205);
+  color: white;
+  border-radius: 3px;
+}
+
+.disabled {
+  color: rgb(156, 147, 147)
+}
+
