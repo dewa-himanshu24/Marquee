@@ -16,6 +16,6 @@ Web app to search registered company.
 - Run using `npm start`
 
 2. To Run Front-end
-- From root directory `cd .\server\`
+- From root directory `cd .\my-app\`
 - Install package.json using command `npm install`
 - Run using `npm start`
